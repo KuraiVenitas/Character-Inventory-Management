@@ -8,10 +8,10 @@ The character's information is then saved to a JSON file within the same folder 
 - Inventory adjustments which including adding or removing items and changing their names.
 
 ## Technologies Used
-Python 3.14.7
-Standard Library: json, sys, time
-Development Environment: Visual Studio Code(VS Code)
-Data Storage Format: JSON
+- Python 3.14.7
+- Standard Library: json, sys, time
+- Development Environment: Visual Studio Code(VS Code)
+- Data Storage Format: JSON
 
 ## How It Works
 - Download and extract the Character & Inventory Management.ZIP, then run the "Character & Inventory Management.py" file
