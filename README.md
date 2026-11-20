@@ -25,7 +25,7 @@ The character's information is then saved to a JSON file within the same folder 
   
 ---Adjusting Name or Level---
 - To adjust the name or level of the character, type "name" or "level", respectively. The program will ask the user for the updated field, then display the updated information once done.
-- 
+
 ---Adjusting Inventory---
 - To adjust the inventory of the character, type "inventory".
 - From here, the user will be prompted to update an item in the character's inventory. If the item cannot be found, it will create a new entry.
