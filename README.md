@@ -33,5 +33,5 @@ Data Storage Format: JSON
 - Alternatively to remove items, subtract the amount you own by entering a negative integer. If I type "-10" for potions, I will have 0 potions.
 - Item amounts less than or equal to 0 will automatically be removed from the character's inventory.
 
-- Changes made t0 the character are saved upon quitting the program through the main menu
+- Changes made to the character are saved upon quitting the program through the main menu
 - If a file exists, but could not be loaded, it may be corrupted. It is recommended to delete the old file and create a new one through the program, though if the error is caused by improper formatting, the file can be adjusted manually to save it.
